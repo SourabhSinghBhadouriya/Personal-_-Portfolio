@@ -11,7 +11,7 @@ const Footer = () => {
     <footer>
       <div>
         <img
-          src={"https://avatars.githubusercontent.com/u/25058652"}
+          src={"avtar.png"}
           alt="Founder"
         />
 
@@ -23,13 +23,13 @@ const Footer = () => {
         <h2>Social Media</h2>
 
         <article>
-          <a href="https://youtube.com/6packprogrammer" target={"blank"}>
+          <a href="https://www.youtube.com/channel/UCh-8-p8YhqkOYSxCXZ6B2yQ" target={"blank"}>
             <AiFillYoutube />
           </a>
-          <a href="https://instagram.com/meabhisingh" target={"blank"}>
+          <a href="https://www.instagram.com/sourabh__singh__bhadouriya/" target={"blank"}>
             <AiFillInstagram />
           </a>
-          <a href="https://github.com/meabhisingh" target={"blank"}>
+          <a href="https://github.com/SourabhSinghBhadouriya" target={"blank"}>
             <AiFillGithub />
           </a>
         </article>
